@@ -1,1 +1,1 @@
-print (" I am trying to undo a commit (revert) ")
+print ("Trying to revert a commit")
